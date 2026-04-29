@@ -7,14 +7,14 @@ The purpose of this repository is to facilitate the exam review process for juni
 All materials in this repository were collected and organized by ourselves. Currently, it includes review materials for the following subjects:
 
 *   **Computer Architecture (计算机体系结构)**: Final exam questions and key concepts (Jan 2026).
-*   **Computer Organization (计算机组成原理)**: Key review points and exam topics (July 2025; July 2026).
--   **Computer Network (计算机网络)**: Midterm exam questions (July 2026).
--   **Compiler principles (编译原理)**: First test questions (July 2026).
+*   **Computer Organization (计算机组成原理)**: Key review points and exam topics (July 2025; April 2026).
+-   **Computer Network (计算机网络)**: Midterm exam questions (April 2026).
+-   **Compiler principles (编译原理)**: First test questions (April 2026).
 *   **Data Structures (数据结构)**: Final exam questions, including choice, short answer, and programming problems (July 2025).
 *   **Digital Circuits (数字电路)**: Final exam questions, including multiple choice and logic problems (2022).
 *   **Machine Learning (机器学习)**: Final exam questions, covering regression, SVM, and regularization (Jan 2026).
 *   **Probability and Statistics (概率论与数理统计)**: Final exam questions, including true/false and multiple choice (2022).
-*   **Theory of Computation (理论计算机科学基础)**: Final exam recollections and complexity theory proofs (July 2025); Midterm exam (July 2026).
+*   **Theory of Computation (理论计算机科学基础)**: Final exam recollections and complexity theory proofs (July 2025); Midterm exam (April 2026).
 
 ## Disclaimer
 Please note that the materials provided in this repository are based on student recollections and personal notes. While I strive for accuracy, there may be errors, omissions, or discrepancies compared to the actual exams. These resources are intended to serve as a supplementary study aid and should not be considered the official or definitive source for exam content. Users should utilize these materials at their own discretion.
