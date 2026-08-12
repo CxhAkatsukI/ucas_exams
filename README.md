@@ -16,6 +16,8 @@ All materials in this repository were collected and organized by ourselves. Curr
 -   **Computer Network (计算机网络)**: Midterm exam questions (April 2026).
 *   **Machine Learning (机器学习)**: Final exam questions, covering regression, SVM, and regularization (Jan 2026).
 -   **Natural Language Processing (自然语言处理)**: Final exam questions (June 2026).
+-   **Assembly Language (汇编语言)**: Final exam questions (June 2026).
+
 
 ## Disclaimer
 Please note that the materials provided in this repository are based on student recollections and personal notes. While I strive for accuracy, there may be errors, omissions, or discrepancies compared to the actual exams. These resources are intended to serve as a supplementary study aid and should not be considered the official or definitive source for exam content. Users should utilize these materials at their own discretion.
